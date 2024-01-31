@@ -1,0 +1,1 @@
+<template>PopularProducts</template>
